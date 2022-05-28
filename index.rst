@@ -7,7 +7,7 @@ Canon Ij Setup - Download & Setup Canon Printer
 Canon.com/ijsetup - is the official webpage where you can download canon printer drivers. The process to setup canon printer is simple, just follow the guide for Canon IJ setup.
 
 |
-.. image:: stars.jpg
+.. image:: get-started-today.png
     :width: 300px
     :align: center
     :height: 100px
