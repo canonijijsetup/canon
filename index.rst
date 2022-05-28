@@ -44,7 +44,7 @@ Steps to install canon ij printer setup
 3. Now click on "setup" and submit the name of the printer model.
        * Or you can click on the FIRST LETTERS, then enter the first two letters. Now, scroll down the screen, then choose your printer model and click on its model name.
 4. Then hit on the SETTING UP for Printer Model Number tab.
-5. Choose the location or region of the purchased printer at www.canon.com/ijsetup.
+5. Choose the location or region of the purchased printer at canon.com/ijsetup.
 6. Check whether the operating system is selected on the SELECT DEVICE page or not.
          * In case if the operating system like windows is not selected, select from the given list.
 7. Click the SETUP button, and it will redirect you to the download page.
